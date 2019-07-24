@@ -1,2 +1,2 @@
-SELECT * FROM users
+SELECT * FROM dragon_users
 WHERE username = $1;
